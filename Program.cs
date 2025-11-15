@@ -14,7 +14,7 @@ namespace BadCalcVeryBad
 
     public class U
     {
-        public static ArrayList G = new ArrayList(); 
+    //    public static ArrayList G = new ArrayList(); 
         public static string last = "";
         public static int counter = 0;
         public string misc;
